@@ -13,7 +13,7 @@
 * HOW TO USE
 * 
 * Capture the binary commands from your remote with RemoteCapture.ino and copy paste the 25 bit commands to the #defines below.
-* Then you can control your projection screen with sendGymstickCommand(GYMSTICK_START_STOP), sendGymstickCommand(GYMSTICK_PLUS) etc.
+* Then you can control your treadmill with sendGymstickCommand(GYMSTICK_START_STOP), sendGymstickCommand(GYMSTICK_PLUS) etc.
 * 
 * 
 * PROTOCOL DESCRIPTION
